@@ -1,0 +1,7 @@
+Model,RMSE,MAE,MAPE,Directional_Accuracy
+Last value,0.0,0.0,0.0,0.0
+Moving average,0.0,0.0,0.0,0.0
+ARIMA,0.0,0.0,0.0,0.0
+LSTM,0.0,0.0,0.0,0.0
+Prophet,0.0,0.0,0.0,0.0
+Transformer,0.0,0.0,0.0,0.0
