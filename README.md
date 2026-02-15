@@ -82,9 +82,10 @@ Default: `data/stock_data.csv` — date and closing price. Use your own CSV with
 
 ## Author
 
-Salik Riyaz
+**Salik Riyaz**
+
 B.Tech in Artificial Intelligence & Data Science
-Indian Institute of Technology Jodhpur
+Indian Institute of Technology, Jodhpur
 
 This repository explores empirical performance trade-offs between statistical rigor and deep learning flexibility in financial time-series forecasting.
 
