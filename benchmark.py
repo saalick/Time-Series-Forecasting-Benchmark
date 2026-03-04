@@ -1,7 +1,4 @@
-"""
-Time-series forecasting benchmark: same train/test split for all models.
-Compares ARIMA, LSTM, Prophet, Transformer, moving average, and last-value baseline.
-"""
+
 
 import os
 import sys
