@@ -1,5 +1,5 @@
 """
-ARIMA model for time-series forecasting.
+ARIMA model for time series forecasting.
 Classical approach: assumes (or enforces via differencing) stationarity.
 """
 
