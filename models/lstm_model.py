@@ -1,6 +1,6 @@
 """
 LSTM model for time-series forecasting.
-Captures long-range dependencies; no stationarity assumption.
+Captures long range dependencies; no stationarity assumption.
 """
 
 import numpy as np
